@@ -1,5 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- AI-based projects using LLMs  <br>- Early-stage startup **Future Seeds**  <br>- Building real-world problem-solving systems  <br><br>👯 I’m looking to collaborate on  <br>- AI / Machine Learning projects  <br>- Data Science applications  <br>- Open-source tech projects  <br><br>🤝 I’m looking for help with  <br>- Advanced AI/ML concepts  <br>- Multimodal systems & real-world deployment  <br>- Scaling ideas into impactful products  <br><br>🌱 I’m currently learning  <br>- Data Science ( @ IIT Madras)  <br>- Machine Learning & AI fundamentals  <br>- System design and practical implementation  <br><br>💬 Ask me about  <br>- AI projects & LLM use cases  <br>- Data Science learning journey  <br>- Startup ideas & execution  <br><br>⚡ Fun fact  <br>- I believe in “learning by building” and turning ideas into real projects 🚀
+# About Me:
+## Currently Working On
+
+* Developing AI-powered applications and intelligent systems
+* Building **Future Seeds**, an initiative focused on student development and innovation
+* Transforming research ideas into real-world software solutions
+* Exploring practical applications of Large Language Models (LLMs)
+
+## Open to Collaborate On
+
+* Artificial Intelligence & Machine Learning projects
+* Data Science and Analytics
+* Open-source software
+* Research and innovation in AI & Education
+
+## 🎯 Currently Exploring
+
+* Advanced Machine Learning concepts
+* Multimodal AI systems
+* System Design & Scalable Architectures
+* Product development from idea to deployment
+
+## 📚 Learning Journey
+
+* BS in Data Science and Applications, IIT Madras
+* Machine Learning & Artificial Intelligence
+* Software Engineering and Full-Stack Development
+* Building production-ready AI applications
+
+## 💬 Let's Talk About
+
+* Artificial Intelligence & LLMs
+* Data Science
+* Research & Publications
+* Startups and Product Development
+* Technology for Education
+
+## 🌟 Motto
+
+*"Learn. Build. Share. Repeat."*
+I believe meaningful learning comes from solving real-world problems and continuously improving through hands-on experience.
+
 
 
 ## 🌐 Socials:
