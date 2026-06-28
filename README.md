@@ -22,7 +22,7 @@
 
 ## Learning Journey
 
-* BS in Data Science and Applications, IIT Madras
+* Data Science, @ IIT Madras
 * Machine Learning & Artificial Intelligence
 * Software Engineering and Full-Stack Development
 * Building production-ready AI applications
