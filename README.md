@@ -1,7 +1,6 @@
 # About Me:
 ## Currently Working On
 
-* Developing AI-powered applications and intelligent systems
 * Building **Future Seeds**, an initiative focused on student development and innovation
 * Transforming research ideas into real-world software solutions
 * Exploring practical applications of Large Language Models (LLMs)
